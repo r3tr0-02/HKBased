@@ -1,0 +1,10 @@
+{
+	"_id": "g28_stock_sl",
+	"_tpl": "g28_stock_sl",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 999999999
+	}
+}

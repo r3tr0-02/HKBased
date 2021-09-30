@@ -1,0 +1,10 @@
+{
+	"_id": "hk_tan_receiver",
+	"_tpl": "hk_tan_receiver",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 999999999
+	}
+}
