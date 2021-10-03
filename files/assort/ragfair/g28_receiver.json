@@ -1,0 +1,10 @@
+{
+	"_id": "g28_receiver",
+	"_tpl": "g28_receiver",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 999999999
+	}
+}
