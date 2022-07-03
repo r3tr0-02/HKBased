@@ -1,0 +1,46 @@
+{
+    "itemLoader": {
+        "basedOn": "5c87a07c2e2216001219d4a2",
+		"sameCompatiblityAs": "5c87a07c2e2216001219d4a2",
+		"sameConflictsAs": "5c87a07c2e2216001219d4a2"
+	},
+    "propsEdits": {
+        "Prefab": {
+            "path": "assets/content/items/mods/stocks/stock_ar15_hk_e1_tan.bundle",
+            "rcid": ""
+        }
+    },
+    "locales": {
+		"english": {
+			"Name": "HK E1 stock (Tan)",
+			"ShortName": "HK E1 FDE",
+			"Description": "Telescopic stock E1 designed and produced by Heckler and Koch. Tan version."
+		},
+		"french": {
+			"Name": "Crosse HK E1 (Tan)",
+			"ShortName": "HK E1 FDE",
+			"Description": "Crosse télescopique E1 conçue et produite par Heckler et Koch. Version Tan."
+		},
+		"german": {
+			"Name": "HK E1 Schaft (Tan)",
+			"ShortName": "HK E1 FDE",
+			"Description": "Teleskopschaft E1, entwickelt und hergestellt von Heckler und Koch. Tan Version."
+		},
+		"russian": {
+			"Name": "Приклад HK E1 (Tan)",
+			"ShortName": "HK E1 FDE",
+			"Description": "Телескопический приклад E1, разработанный и выпускаемый компанией Heckler and Koch. Версия Tan."
+		}
+	},
+    "manifest": [
+        {
+            "relativePath": "items/weapon/HK-416A5/bundles/mods/stock/stock_g28.bundle",
+			"key": "assets/content/items/mods/stocks/stock_ar15_hk_e1_tan.bundle",
+			"dependencyKeys": [
+				"cubemaps",
+				"shaders",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+			]
+        }
+    ]
+}

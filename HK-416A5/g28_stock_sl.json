@@ -1,0 +1,46 @@
+{
+    "itemLoader": {
+		"basedOn": "5bb20e70d4351e0035629f8f",
+		"sameCompatiblityAs": "5bb20e70d4351e0035629f8f",
+		"sameConflictsAs": "5bb20e70d4351e0035629f8f"
+	},
+    "propsEdits": {
+        "Prefab": {
+            "path": "assets/content/items/mods/stocks/stock_ar15_hk_slim_line_tan.bundle",
+            "rcid": ""
+        }
+    },
+    "locales": {
+		"english": {
+			"Name": "HK Slim Line stock (Tan)",
+			"ShortName": "HK SL FDE",
+			"Description": "Telescopic stock from \"Slim Line\" series designed and produced by Heckler and Koch. Tan version."
+		},
+		"french": {
+			"Name": "Crosse HK Slim Line (Tan)",
+			"ShortName": "HK SL FDE",
+			"Description": "Crosse télescopique de la série \"Slim Line\" conçue et produite par Heckler et Koch. Version Tan."
+		},
+		"german": {
+			"Name": "HK Slim Line Schaft (Tan)",
+			"ShortName": "HK SL FDE",
+			"Description": "Teleskopschaft aus der \"Slim Line\"-Serie, entwickelt und hergestellt von Heckler und Koch. Hellbraune Version."
+		},
+		"russian": {
+			"Name": "Приклад HK Slim Line (Tan)",
+			"ShortName": "HK SL FDE",
+			"Description": "Телескопический приклад из серии \"Slim Line\", разработанной и выпускаемой компанией Heckler and Koch. Версия Tan."
+		}
+	},
+    "manifest": [
+        {
+            "relativePath": "items/weapon/HK-416A5/bundles/mods/stock/stock_g28_sl.bundle",
+			"key": "assets/content/items/mods/stocks/stock_ar15_hk_slim_line_tan.bundle",
+			"dependencyKeys": [
+				"cubemaps",
+				"shaders",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+			]
+        }
+    ]
+}
