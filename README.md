@@ -23,7 +23,7 @@ Update 1.0.2
 - Updated for AE 2.2.0.3
 
 ## PHOTOS
-![alt text]( "1")
-![alt text]( "2")
-![alt text]( "3")
-![alt text]( "4")
+![alt text](https://cdn.discordapp.com/attachments/901750608078463026/993229096752521296/unknown.png "1")
+![alt text](https://cdn.discordapp.com/attachments/901750608078463026/993229163433574541/unknown.png "2")
+![alt text](https://cdn.discordapp.com/attachments/901750608078463026/993229239744729118/unknown.png "3")
+![alt text](https://cdn.discordapp.com/attachments/901750608078463026/993230824273096744/unknown.png "4")
