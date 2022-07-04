@@ -255,6 +255,117 @@
 					"slotId": "mod_tactical_001"
 				}
 			]
+		},
+		"Assaulteur": {
+			"_name": "Default",
+			"_parent": "0",
+			"_items": [
+				{
+					"_id": "0"
+				},
+				{
+					"_id": "1",
+					"_tpl": "5c6d7b3d2e221600114c9b7d",
+					"parentId": "0",
+					"slotId": "mod_pistol_grip"
+				},
+				{
+					"_id": "2",
+					"_tpl": "5a3501acc4a282000d72293a",
+					"parentId": "0",
+					"slotId": "mod_magazine"
+				},
+				{
+					"_id": "3",
+					"_tpl": "g28_receiver",
+					"parentId": "0",
+					"slotId": "mod_reciever"
+				},
+				{
+					"_id": "4",
+					"_tpl": "5bb20e58d4351e00320205d7",
+					"parentId": "0",
+					"slotId": "mod_stock"
+				},
+				{
+					"_id": "5",
+					"_tpl": "5df8e085bb49d91fb446d6a8",
+					"parentId": "0",
+					"slotId": "mod_charge"
+				},
+				{
+					"_id": "6",
+					"_tpl": "5df917564a9f347bc92edca3",
+					"parentId": "3",
+					"slotId": "mod_barrel"
+				},
+				{
+					"_id": "7",
+					"_tpl": "g28_handguard",
+					"parentId": "3",
+					"slotId": "mod_handguard"
+				},
+				{
+					"_id": "8",
+					"_tpl": "5c18b9192e2216398b5a8104",
+					"parentId": "3",
+					"slotId": "mod_sight_rear"
+				},
+				{
+					"_id": "9",
+					"_tpl": "g28_stock_sl",
+					"parentId": "4",
+					"slotId": "mod_stock_000"
+				},
+				{
+					"_id": "10",
+					"_tpl": "5cdd7693d7f00c0010373aa5",
+					"parentId": "6",
+					"slotId": "mod_muzzle"
+				},
+				{
+					"_id": "11",
+					"_tpl": "5dfa3d45dfc58d14537c20b0",
+					"parentId": "6",
+					"slotId": "mod_gas_block"
+				},
+				{
+					"_id": "12",
+					"_tpl": "5c18b90d2e2216152142466b",
+					"parentId": "7",
+					"slotId": "mod_sight_front"
+				},
+				{
+					"_id": "13",
+					"_tpl": "5cda9bcfd7f00c0c0b53e900",
+					"parentId": "7",
+					"slotId": "mod_foregrip"
+				},
+				{
+					"_id": "14",
+					"_tpl": "5a37ca54c4a282000d72296a",
+					"parentId": "3",
+					"slotId": "mod_scope"
+				},
+				{
+					"_id": "15",
+					"_tpl": "Vudu_FDE",
+					"parentId": "14",
+					"slotId": "mod_scope_000"
+				},
+				{
+					"_id": "16",
+					"_tpl": "544909bb4bdc2d6f028b4577",
+					"parentId": "3",
+					"slotId": "mod_tactical_001"
+				},
+				{
+					"_id": "17",
+					"_tpl": "58d268fc86f774111273f8c2",
+					"parentId": "14",
+					"slotId": "mod_scope_001"
+				}
+			]
 		}
 	},
 	"manifest": [
