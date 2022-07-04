@@ -1,0 +1,173 @@
+{
+	"itemLoader": {
+		"basedOn": "5df8e4080b92095fd441e594",
+		"sameCompatibilityAs": "5df8e4080b92095fd441e594",
+		"sameConflictsAs": "5df8e4080b92095fd441e594"
+	},
+	"propsEdits": {
+		"Prefab": {
+			"path": "assets/content/items/mods/recievers/reciever_g28.bundle",
+			"rcid": ""
+		},
+		"Slots": [
+			{
+				"_name": "mod_scope",
+				"_id": "mod_scope_g28_receiver",
+				"_parent": "g28_receiver",
+				"_props": {
+					"filters": [
+						{
+							"Shift": 0,
+							"Filter": [
+								"57ac965c24597706be5f975c",
+								"57aca93d2459771f2c7e26db",
+								"544a3a774bdc2d3a388b4567",
+								"5d2dc3e548f035404a1a4798",
+								"57adff4f24597737f373b6e6",
+								"5c0517910db83400232ffee5",
+								"591c4efa86f7741030027726",
+								"570fd79bd2720bc7458b4583",
+								"570fd6c2d2720bc6458b457f",
+								"558022b54bdc2dac148b458d",
+								"5c07dd120db834001c39092d",
+								"5c0a2cec0db834001b7ce47d",
+								"58491f3324597764bc48fa02",
+								"584924ec24597768f12ae244",
+								"5b30b0dc5acfc400153b7124",
+								"5d2da1e948f035477b1ce2ba",
+								"5c0505e00db834001b735073",
+								"584984812459776a704a82a6",
+								"59f9d81586f7744c7506ee62",
+								"570fd721d2720bc5458b4596",
+								"57ae0171245977343c27bfcf",
+								"5dfe6104585a0c3e995c7b82",
+								"5d1b5e94d7ad1a2b865a96b0",
+								"58d39d3d86f77445bb794ae7",
+								"5c7d55f52e221644f31bff6a",
+								"5b3b6dc75acfc47a8773fb1e",
+								"5b2389515acfc4771e1be0c0",
+								"577d128124597739d65d0e56",
+								"5c86592b2e2216000e69e77c",
+								"5a37ca54c4a282000d72296a",
+								"5d0a29fed7ad1a002769ad08",
+								"5c064c400db834001d23f468",
+								"58d2664f86f7747fec5834f6",
+								"57c69dd424597774c03b7bbc",
+								"5b3b99265acfc4704b4a1afb",
+								"5aa66a9be5b5b0214e506e89",
+								"5aa66c72e5b5b00016327c93",
+								"5c1cdd302e221602b3137250",
+								"5b31163c5acfc400153b71cb",
+								"5a33b652c4a28232996e407c",
+								"5a33b2c9c4a282000c5a9511",
+								"59db7eed86f77461f8380365",
+								"5a1ead28fcdbcb001912fa9f",
+								"5dff77c759400025ea5150cf"
+							]
+						}
+					]
+				},
+				"_required": false,
+				"_mergeSlotWithChildren": false,
+				"_proto": "55d30c4c4bdc2db4468b457e"
+			},
+			{
+				"_name": "mod_barrel",
+				"_id": "mod_barrel_g28_receiver",
+				"_parent": "g28_receiver",
+				"_props": {
+					"filters": [
+						{
+							"Shift": 0,
+							"Filter": [
+								"5df917564a9f347bc92edca3",
+								"5dfa397fb11454561e39246c"
+							]
+						}
+					]
+				},
+				"_required": true,
+				"_mergeSlotWithChildren": false,
+				"_proto": "55d30c4c4bdc2db4468b457e"
+			},
+			{
+				"_name": "mod_handguard",
+				"_id": "mod_handguard_g28_receiver",
+				"_parent": "g28_receiver",
+				"_props": {
+					"filters": [
+						{
+							"Shift": 0,
+							"Filter": [
+								"g28_handguard",
+								"g28_handguard_ext"
+							]
+						}
+					]
+				},
+				"_required": true,
+				"_mergeSlotWithChildren": false,
+				"_proto": "55d30c4c4bdc2db4468b457e"
+			},
+			{
+			"_name": "mod_sight_rear",
+			"_id": "5df8e4080b92095fd441e599",
+			"_parent": "5df8e4080b92095fd441e594",
+			"_props": {
+				"filters": [
+					{
+						"Shift": 0,
+						"Filter": [
+							"5bb20e49d4351e3bac1212de",
+							"5ba26b17d4351e00367f9bdd",
+							"5dfa3d7ac41b2312ea33362a",
+							"5c1780312e221602b66cc189",
+							"5bc09a18d4351e003562b68e",
+							"5c18b9192e2216398b5a8104",
+							"5894a81786f77427140b8347",
+							"55d5f46a4bdc2d1b198b4567",
+							"5ae30bad5acfc400185c2dc4"
+						]
+					}
+				]
+			},
+			"_required": false,
+			"_mergeSlotWithChildren": false,
+			"_proto": "55d30c4c4bdc2db4468b457e"
+			}
+		]
+	},
+	"locales": {
+		"english": {
+			"Name": "Upper receiver HK G28 7.62x51 (Tan)",
+			"ShortName": "G28 upper",
+			"Description": "Upper receiver for HK G28 DMR manufactured by Heckler and Koch. Equipped with a mount for attaching additional devices. Tan version."
+		},
+		"french": {
+			"Name": "Récepteur supérieur HK G28 7.62x51 (Tan)",
+			"ShortName": "G28 upper",
+			"Description": "Récepteur supérieur pour HK G28 DMR fabriqué par Heckler and Koch. Equipée d'un support pour la fixation de dispositifs supplémentaires. Version Tan."
+		},
+		"german": {
+			"Name": "Oberer Empfänger HK G28 7.62x51 (Tan)",
+			"ShortName": "G28 upper",
+			"Description": "Obere Aufnahme für das HK G28 DMR der Firma Heckler und Koch. Ausgestattet mit einer Halterung zur Anbringung von Zusatzgeräten. Tan Version."
+		},
+		"russian": {
+			"Name": "Верхняя ствольная коробка HK G28 7.62x51 (Tan)",
+			"ShortName": "G28 upper",
+			"Description": "Верхняя ствольная коробка для HK G28 DMR производства компании Heckler and Koch. Оснащена креплением для установки дополнительных устройств. Версия Tan."
+		}
+	},
+	"manifest": [
+		{
+			"relativePath": "items/weapon/HK-G28/bundles/reciever/reciever_ar10_kac_sr25_upper_std.bundle",
+			"key": "assets/content/items/mods/recievers/reciever_g28.bundle",
+			"dependencyKeys": [
+				"cubemaps",
+				"shaders",
+				"assets/commonassets/physics/physicsmaterials.bundle"
+			]
+		}
+	]
+}

@@ -1,0 +1,299 @@
+{
+	"itemLoader": {
+		"basedOn": "5df8ce05b11454561e39243b",
+		"sameCompatiblityAs": "5df8ce05b11454561e39243b"
+	},
+	"propsEdits": {
+		"Prefab": {
+			"path": "assets/content/weapons/g28/weapon_kac_sr25_762x51_container.bundle",
+			"rcid": ""
+		},
+		"Slots": [
+			{
+				"_name": "mod_pistol_grip",
+				"_id": "mod_pistol_grip_g28",
+				"_parent": "g28",
+				"_props": {
+					"filters": [
+						{
+							"Shift": 0,
+							"Filter": [
+								"55d4b9964bdc2d1d4e8b456e",
+								"571659bb2459771fb2755a12",
+								"5cc9bcaed7f00c011c04e179",
+								"5bb20e18d4351e00320205d5",
+								"5bb20e0ed4351e3bac1212dc",
+								"5d025cc1d7ad1a53845279ef",
+								"5c6d7b3d2e221600114c9b7d",
+								"57c55efc2459772d2c6271e7",
+								"57af48872459771f0b2ebf11",
+								"57c55f092459772d291a8463",
+								"57c55f112459772d28133310",
+								"57c55f172459772d27602381",
+								"5a339805c4a2826c6e06d73d",
+								"55802f5d4bdc2dac148b458f",
+								"5d15cf3bd7ad1a67e71518b2",
+								"59db3a1d86f77429e05b4e92",
+								"59db3acc86f7742a2c4ab912",
+								"59db3b0886f77429d72fb895",
+								"5b07db875acfc40dc528a5f6"
+							]
+						}
+					]
+				},
+				"_required": true,
+				"_mergeSlotWithChildren": false,
+				"_proto": "55d30c4c4bdc2db4468b457e"
+			},
+			{
+				"_name": "mod_magazine",
+				"_id": "mod_magazine_g28",
+				"_parent": "g28",
+				"_props": {
+					"filters": [
+						{
+							"AnimationIndex": -1,
+							"Filter": [
+								"5df8f535bb49d91fb446d6b0",
+								"5df8f541c41b2312ea3335e3",
+								"5a3501acc4a282000d72293a"
+							]
+						}
+					]
+				},
+				"_required": false,
+				"_mergeSlotWithChildren": false,
+				"_proto": "55d30c394bdc2dae468b4577"
+			},
+			{
+				"_name": "mod_stock",
+				"_id": "mod_stock_g28",
+				"_parent": "g28",
+				"_props": {
+					"filters": [
+						{
+							"Shift": 0,
+							"Filter": [
+								"5649be884bdc2d79388b4577",
+								"5d120a10d7ad1a4e1026ba85",
+								"5b0800175acfc400153aebd4",
+								"5c793fb92e221644f31bfb64",
+								"5c793fc42e221600114ca25d",
+								"5bb20e58d4351e00320205d7"
+							]
+						}
+					]
+				},
+				"_required": true,
+				"_mergeSlotWithChildren": false,
+				"_proto": "55d30c4c4bdc2db4468b457e"
+			},
+			{
+				"_name": "mod_reciever",
+				"_id": "mod_reciever_g28",
+				"_parent": "g28",
+				"_props": {
+					"filters": [
+						{
+							"Shift": 0,
+							"Filter": [
+								"g28_receiver"
+							]
+						}
+					]
+				},
+				"_required": true,
+				"_mergeSlotWithChildren": false,
+				"_proto": "55d30c4c4bdc2db4468b457e"
+			},
+			{
+				"_name": "mod_charge",
+				"_id": "mod_charge_g28",
+				"_parent": "g28",
+				"_props": {
+					"filters": [
+						{
+							"Shift": 0,
+							"Filter": [
+								"5df8e085bb49d91fb446d6a8",
+								"5df8e053bb49d91fb446d6a6"
+							]
+						}
+					]
+				},
+				"_required": true,
+				"_mergeSlotWithChildren": false,
+				"_proto": "55d30c4c4bdc2db4468b457e"
+			}
+		]
+	},
+	"locales": {
+		"english": {
+			"Name": "HK G28 7.62x51 Designated Marksman Rifle (Tan)",
+			"ShortName": "G28",
+			"Description": "After using the HK417 as a stopgap designated marksman rifle under the G27 designation, the civilian MR308 was used to develop the G28, a designated marksman rifle for the German Bundeswehr (Federal Army) deployment to the War in Afghanistan."
+		},
+		"french": {
+			"Name": "Fusil de tireur d'élite désigné HK G28 7.62x51 (Tan)",
+			"ShortName": "G28",
+			"Description": "Après avoir utilisé le HK417 comme fusil de tireur d'élite désigné sous la désignation G27, le MR308 civil a été utilisé pour développer le G28, un fusil de tireur d'élite désigné pour la Bundeswehr allemande (armée fédérale) déployée dans la guerre en Afghanistan."
+		},
+		"german": {
+			"Name": "HK G28 7.62x51 Scharfschützengewehr (Tan)",
+			"ShortName": "G28",
+			"Description": "Nach der Verwendung des HK417 als provisorisches Scharfschützengewehr unter der Bezeichnung G27 wurde aus dem zivilen MR308 das G28 entwickelt, ein Scharfschützengewehr für den Einsatz der Bundeswehr im Krieg in Afghanistan."
+		},
+		"russian": {
+			"Name": "HK G28 7.62x51 Designated Marksman Rifle (Tan)",
+			"ShortName": "G28",
+			"Description": "После использования HK417 в качестве временной винтовки для метких стрелков под обозначением G27, гражданская винтовка MR308 была использована для создания G28 - винтовки для метких стрелков, предназначенной для немецкого Бундесвера (Федеральной армии), участвующего в войне в Афганистане."
+		}
+	},
+	"weaponMastery": "SR25",
+	"weaponPresets": {
+		"g28_DefaultPreset": {
+			"_name": "Default",
+			"_parent": "0",
+			"_items": [
+				{
+					"_id": "0"
+				},
+				{
+					"_id": "1",
+					"_tpl": "HKBeavertail_FDE",
+					"parentId": "0",
+					"slotId": "mod_pistol_grip"
+				},
+				{
+					"_id": "2",
+					"_tpl": "5a3501acc4a282000d72293a",
+					"parentId": "0",
+					"slotId": "mod_magazine"
+				},
+				{
+					"_id": "3",
+					"_tpl": "g28_receiver",
+					"parentId": "0",
+					"slotId": "mod_reciever"
+				},
+				{
+					"_id": "4",
+					"_tpl": "5bb20e58d4351e00320205d7",
+					"parentId": "0",
+					"slotId": "mod_stock"
+				},
+				{
+					"_id": "5",
+					"_tpl": "5df8e085bb49d91fb446d6a8",
+					"parentId": "0",
+					"slotId": "mod_charge"
+				},
+				{
+					"_id": "6",
+					"_tpl": "5df917564a9f347bc92edca3",
+					"parentId": "3",
+					"slotId": "mod_barrel"
+				},
+				{
+					"_id": "7",
+					"_tpl": "g28_handguard_ext",
+					"parentId": "3",
+					"slotId": "mod_handguard"
+				},
+				{
+					"_id": "8",
+					"_tpl": "5c18b9192e2216398b5a8104",
+					"parentId": "3",
+					"slotId": "mod_sight_rear"
+				},
+				{
+					"_id": "9",
+					"_tpl": "g28_stock",
+					"parentId": "4",
+					"slotId": "mod_stock_000"
+				},
+				{
+					"_id": "10",
+					"_tpl": "5cdd7693d7f00c0010373aa5",
+					"parentId": "6",
+					"slotId": "mod_muzzle"
+				},
+				{
+					"_id": "11",
+					"_tpl": "5dfa3d45dfc58d14537c20b0",
+					"parentId": "6",
+					"slotId": "mod_gas_block"
+				},
+				{
+					"_id": "12",
+					"_tpl": "5c18b90d2e2216152142466b",
+					"parentId": "7",
+					"slotId": "mod_sight_front"
+				},
+				{
+					"_id": "13",
+					"_tpl": "5cda9bcfd7f00c0c0b53e900",
+					"parentId": "7",
+					"slotId": "mod_foregrip"
+				},
+				{
+					"_id": "14",
+					"_tpl": "5c86592b2e2216000e69e77c",
+					"parentId": "3",
+					"slotId": "mod_scope"
+				},
+				{
+					"_id": "15",
+					"_tpl": "NightforceATACR_FDE",
+					"parentId": "14",
+					"slotId": "mod_scope"
+				},
+				{
+					"_id": "16",
+					"_tpl": "544909bb4bdc2d6f028b4577",
+					"parentId": "3",
+					"slotId": "mod_tactical_001"
+				}
+			]
+		}
+	},
+	"manifest": [
+		{
+			"relativePath": "items/weapon/HK-G28/bundles/textures/client_assets.bundle",
+			"key": "assets/content/weapons/g28/textures/client_assets.bundle",
+			"dependencyKeys": []
+		},
+		{
+			"relativePath": "items/weapon/HK-G28/bundles/client_assets.bundle",
+			"key": "assets/content/weapons/g28/client_assets.bundle",
+			"dependencyKeys": [
+				"shaders",
+				"cubemaps",
+				"assets/content/weapons/g28/textures/client_assets.bundle"
+			]
+		},
+		{
+			"relativePath": "items/weapon/HK-G28/bundles/weapon_kac_sr25_762x51_container.bundle",
+			"key": "assets/content/weapons/g28/weapon_kac_sr25_762x51_container.bundle",
+			"dependencyKeys": [
+				"shaders",
+				"cubemaps",
+				"assets/content/weapons/g28/textures/client_assets.bundle",
+				"assets/systems/effects/muzzleflash/muzzleflash.bundle",
+				"assets/content/weapons/animations/spirit_animations.bundle",
+				"assets/content/weapons/animations/simple_animations.bundle",
+				"assets/content/weapons/weapon_root_anim_fix.bundle",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"assets/content/weapons/animations/animations.bundle",
+				"assets/content/weapons/additional_hands/client_assets.bundle",
+				"assets/content/weapons/m4a1/client_assets.bundle",
+				"assets/content/weapons/g28/client_assets.bundle",
+				"assets/content/audio/banks/rsass.bundle",
+				"assets/content/audio/weapons/ak74.bundle",
+				"assets/content/audio/weapons/generic",
+				"assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+				"assets/systems/effects/heathaze/defaultheathaze.bundle"
+			]
+		}
+	]
+}
